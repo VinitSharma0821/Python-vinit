@@ -1,0 +1,6 @@
+x = str(input("enter your name:"))
+print("you entered name of:" , x)
+y=str(input("enter your email:"))
+print("you entered email of:" , y)
+z=str(input("enter your address:"))
+print("you entered email of:" , z)
